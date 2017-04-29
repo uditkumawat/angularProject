@@ -1,0 +1,14 @@
+{
+  "name": "codeacademy_angular",
+  "version": "1.0.0",
+  "description": "learning angular from codeacademy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "udit",
+  "license": "ISC"
+}
